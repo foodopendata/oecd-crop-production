@@ -1,0 +1,42 @@
+{
+  "name": "crop-production-worlwide",
+  "title": "Crop Production World Wide",
+  "format": "csv",
+  "datapackage_version": "1.0.0",
+  "last_modified": "2017-01-31",
+  "licenses": [{
+    "type": "ODC-PDDL-1.0",
+    "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+  }],
+  "sources": [{
+    "name": "The Organisation for Economic Co-operation and Development (OECD)",
+    "web": "https://data.oecd.org/agroutput/crop-production.htm"
+  }],
+  "resources": [{
+    "url": "https://raw.github.com/schoolofdata-ch/food-available-major-group-Canada/master/data/food-available-major-group-Canada.csv",
+    "path": "data/food-comp-data-fr.csv",
+    "schema": {
+      "fields": [{
+        "name": "Location",
+        "description": "Country name",
+        "type": "string"
+      }, {
+        "name": "Subject",
+        "description": "Crop / Commodity",
+        "type": "string"
+      },
+
+       {
+
+        "name": "Measure",
+        "description": "Tonne",
+        "type": "numeric"
+
+      }]
+    }
+  }],
+  "maintainers": [{
+    "name": "School of Data",
+    "web": "https://www.schoolofdata.ch/"
+  }]
+}
