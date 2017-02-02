@@ -1,33 +1,23 @@
-# Crop Production World Wide
+The [Organisation for Economic Co-operation and Development](https://data.oecd.org/) (OECD) collects data about crop production, related to harvested areas, returns per hectare (yields) and quantities produced. Crop yields are the harvested production per unit of harvested area for crop products.
 
-crop-production-worldwide
+This data was used in the publication [OECD-FAO Agricultural Outlook (2016)](http://dx.doi.org/10.1787/19991142). As described by the authors:
 
-# Data
-
-The Organisation for Economic Co-operation and Development (OECD), crop production is related to harvested areas, returns per hectare (yields) and quantities produced. Crop yields are the harvested production per unit of harvested area for crop products. In most of the cases yield data are not reco
-
-
-# Data Package
-
-The data package is created by School of Data <info@schoolofdata.ch>
-
-# Author
-
-The database is provided by The Organisation for Economic Co-operation and Development (OECD).
+> Crop production depends on the availability of arable land and is affected in particular by yields, macroeconomic uncertainty, as well as consumption patterns; it also has a great incidence on agricultural commodities' prices. The importance of crop production is related to harvested areas, returns per hectare (yields) and quantities produced. Crop yields are the harvested production per unit of harvested area for crop products. In most of the cases yield data are not recorded, but are obtained by dividing the production data by the data on area harvested. The actual yield that is captured on farm depends on several factors such as the crop's genetic potential, the amount of sunlight, water and nutrients absorbed by the crop, the presence of weeds and pests. This indicator is presented for wheat, maize, rice and soybean. **Crop production is measured in tonnes per hectare, in thousand hectares and thousand tonnes.**
 
 Sources:
 
-https://data.oecd.org/agroutput/crop-production.htm
+- https://data.oecd.org/agroutput/crop-production.htm
 
+OECD (2017), Crop production (indicator). doi: 10.1787/49a4e677-en (Accessed on 02 February 2017)
 
 ## License
 
-This material is licensed by its maintainers under the Public Domain Dedication
+This package is licensed by its maintainers under the Public Domain Dedication
 and License.
 
-Nevertheless, it should be noted that this material is currently sourced from
-several third-parties whose data publishing rights and licensing policies are somewhat
-unclear.
+Datasets it contains are republished under the OECD's general terms of [Permitted Use](http://www.oecd.org/termsandconditions/):
+
+> Except where additional restrictions apply as stated above, you can extract from, download, copy, adapt, print, distribute, share and embed Data for any purpose, even for commercial use. You must give appropriate credit to the OECD by using the citation associated with the relevant Data, or, if no specific citation is available, you must cite the source information using the following format: Dataset name: Data source: DOI or URL. Accessed on (date). When sharing or licensing work created using the Data, you agree to include the same acknowledgment requirement in any sub-licenses that you grant, along with the requirement that any further sub-licensees do the same.
 
 If you intended to use these data in a public or commercial product, please
 check the original sources for any specific restrictions.

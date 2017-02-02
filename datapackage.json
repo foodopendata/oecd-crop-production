@@ -1,5 +1,5 @@
 {
-  "name": "crop-production-worlwide",
+  "name": "food-crop-production",
   "title": "Crop Production World Wide",
   "format": "csv",
   "datapackage_version": "1.0.0",
@@ -13,30 +13,41 @@
     "web": "https://data.oecd.org/agroutput/crop-production.htm"
   }],
   "resources": [{
-    "url": "https://raw.github.com/schoolofdata-ch/food-available-major-group-Canada/master/data/food-available-major-group-Canada.csv",
-    "path": "data/food-comp-data-fr.csv",
+    "path": "data/DP_LIVE_02022017075751828.csv",
     "schema": {
       "fields": [{
         "name": "Location",
         "description": "Country name",
         "type": "string"
       }, {
-        "name": "Subject",
+        "name": "Indicator",
         "description": "Crop / Commodity",
         "type": "string"
-      },
-
-       {
-
+      }, {
+        "name": "Subject",
+        "description": "E.g. Rice",
+        "type": "string"
+      }, {
         "name": "Measure",
         "description": "Tonne",
         "type": "numeric"
-
+      }, {
+        "name": "Frequency",
+        "description": "",
+        "type": "string"
+      }, {
+        "name": "Time",
+        "description": "Year value",
+        "type": "string"
+      }, {
+        "name": "Value",
+        "description": "Crop production indicator",
+        "type": "numeric"
       }]
     }
   }],
   "maintainers": [{
-    "name": "School of Data",
+    "name": "School of Data Switzerland",
     "web": "https://www.schoolofdata.ch/"
   }]
 }
