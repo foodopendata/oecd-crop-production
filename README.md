@@ -1,6 +1,6 @@
 The [Organisation for Economic Co-operation and Development](https://data.oecd.org/) (OECD) collects data about crop production, related to harvested areas, returns per hectare (yields) and quantities produced. Crop yields are the harvested production per unit of harvested area for crop products.
 
-This data was used in the publication [OECD-FAO Agricultural Outlook (2016)](http://dx.doi.org/10.1787/19991142). As described by the authors:
+This data was used in the publication [OECD-FAO Agricultural Outlook 2017-2026](http://dx.doi.org/10.1787/agr_outlook-2017-en). As described by the authors:
 
 > Crop production depends on the availability of arable land and is affected in particular by yields, macroeconomic uncertainty, as well as consumption patterns; it also has a great incidence on agricultural commodities' prices. The importance of crop production is related to harvested areas, returns per hectare (yields) and quantities produced. Crop yields are the harvested production per unit of harvested area for crop products. In most of the cases yield data are not recorded, but are obtained by dividing the production data by the data on area harvested. The actual yield that is captured on farm depends on several factors such as the crop's genetic potential, the amount of sunlight, water and nutrients absorbed by the crop, the presence of weeds and pests. This indicator is presented for wheat, maize, rice and soybean. **Crop production is measured in tonnes per hectare, in thousand hectares and thousand tonnes.**
 
@@ -8,7 +8,7 @@ Sources:
 
 - https://data.oecd.org/agroutput/crop-production.htm
 
-OECD (2017), Crop production (indicator). doi: 10.1787/49a4e677-en (Accessed on 02 February 2017)
+OECD (2018), Crop production (indicator). doi: 10.1787/49a4e677-en (Accessed on 24 January 2018)
 
 ## License
 
